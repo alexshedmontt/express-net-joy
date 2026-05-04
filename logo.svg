@@ -1,9 +1,15 @@
 <svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
   <!-- Background circle -->
-  <circle cx="100" cy="100" r="90" stroke="black" stroke-width="6"></circle>
+  <circle cx="100" cy="100" r="90" stroke="black" stroke-width="6"/>
 
   <!-- Letter U -->
-  <path d="M60 60 V120 
+  <path 
+    d="M60 60 V120 
        A40 40 0 0 0 140 120 
-       V60" stroke="black" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" fill="none"></path>
+       V60" 
+    stroke="black" 
+    stroke-width="10" 
+    stroke-linecap="round" 
+    stroke-linejoin="round"
+    fill="none"/>
 </svg>
